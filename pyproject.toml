@@ -78,6 +78,3 @@ exclude = "(.eggs|.git|.mypy_cache|.nox|.tox|_build|build|dist|venv)"
 
 [project.scripts]
 pandora = "pandora.Pandora:main"
-
-[tool.cibuildwheel]
-skip = ["pp*", "cp38*"]

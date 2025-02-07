@@ -12,7 +12,7 @@ build-backend = "mesonpy"
 [tool.setuptools_scm]
 
 [project]
-name = "pandora"
+name = "pandora-test-cibw"
 dynamic = ["version"]
 authors = [{ name = "CNES" }]
 description = "Pandora is a stereo matching framework that helps emulate state of the art algorithms"

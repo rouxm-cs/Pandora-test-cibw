@@ -1,5 +1,5 @@
 project(
-  'pandora-test-cibw',
+  'pandora',
   'cpp',
   version: run_command(
     'python',
